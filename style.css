@@ -4,6 +4,8 @@ body{
 .firstDiv{
     display: flex;
     justify-content: space-between;
+    width: auto;
+    height: auto~;
 }
 .img2{
     width: 60px;
