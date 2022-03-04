@@ -1,0 +1,23 @@
+body{
+    background-color: gray;
+}
+.firstDiv{
+    display: flex;
+    justify-content: space-between;
+}
+.img2{
+    width: 60px;
+}
+.leftmenu{
+  width: 19vw;  
+  
+}
+
+.div2{
+    display: flex;
+}
+.video{
+    width: 25vw;
+    height: 15vw;
+    justify-content: space-between;
+}
