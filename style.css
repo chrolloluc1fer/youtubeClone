@@ -13,11 +13,11 @@ body{
   
 }
 
-.div2{
+.content{
     display: flex;
 }
 .video{
     width: 25vw;
     height: 15vw;
-    justify-content: space-between;
+  ;
 }
