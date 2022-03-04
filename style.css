@@ -3,13 +3,26 @@ body{
 }
 .firstDiv{
     display: flex;
-    justify-content: space-between;
-    width: auto;
-    height: auto~;
+   justify-content: space-evenly;
+   
+}
+.img1{
+    height: 3vw;
+    width: 4vw;
 }
 .img2{
-    width: 60px;
+    height: 3vw;
+    width: 4vw;
 }
+.img3{
+    height: 3vw;
+    width: 50vw;
+}
+.img4{
+    height: 3vw;
+    width: 18vw;
+}
+
 .leftmenu{
   width: 19vw;  
   
